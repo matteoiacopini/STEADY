@@ -1,37 +1,26 @@
 ---
 permalink: /
-title: "STEADY"
-excerpt: "Role: principal investigator. Funding: EUR 176,000 from the European Commission (EC). Project duration: Oct 2020 - Sep 2022."
-# collection: portfolio
+title: ""
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p align="justify">
 
-<b>ID.</b> 887220
-<br> <br>
+STEADY is an individual Marie Skłodowska-Curie Fellowship funded by the European Commission under grant number 887220. The grant lasted from October 2020 to September 2022 and was developed at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics).
 
-<b>Principal investigator.</b>  Matteo Iacopini
-<br>
+The research team for STEADY includes:
+* [Matteo Iacopini](): Principal Investigator and former post-doctoral at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
+* [Siem Jan Koopman](https://sjkoopman.net): Professor of Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics) as Co-Principal Investigator
+* [André Lucas](https://personal.vu.nl/a.lucas/): Professor of Financial Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics) as Co-Principal Investigator
 
-<b>Supervisors:</b>
-* [Siem Jan Koopman](https://sjkoopman.net), Professor of Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
-* [André Lucas](https://personal.vu.nl/a.lucas/), Professor of Financial Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
-<br> <br>
 
-<b>Host institution.</b> [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
-<br> <br>
 
-<b>Funding.</b> EUR 176,000 from the European Commission (EC)
-<br> <br>
+About the Project
+======
 
-<b>Project duration.</b> October 2020 - September 2022
-<br> <br>
-
-<b>Summary.</b>
 Modern economic analyses require new models to study increasingly fine-grained interrelations based on increasingly complex data sources. Early dynamic economic analyses have mostly been limited to only studying univariate time series, which can be represented as a single sequence (or vector) of values. Most contemporary analyses use more complicated data with both time series and cross-sectional dimensions, such as panels of key macroeconomic figures, for many countries over time. Such data can be represented as a (2-dim) matrix.
 
 Recently, more complex data structures have rapidly emerged, requiring higher dimensional storage objects. As an example, a data set consisting of a time series (1st dimension) of the exposures of banks (2nd dim) to other banks (3rd dim) in several markets (bonds, equity; 4th dim) and for different maturities (5th dim). The storage object for such high-dimensional data sets is a generalization of a matrix, called a tensor.
@@ -42,4 +31,3 @@ The **STEADY** project fills this gap by developing novel statistical methods fo
 The project has two main research directions.
 One is the development of a general class of dynamic time-series models, which merge the linear tensor time series literature and the score-driven time-varying parameter approach based on the Generalized Autoregressive Score (GAS) model. The other contribution consists in the development of a new tensor-based compression technique for many economic time series, the tensor dynamic factor model. 
 
-</p>

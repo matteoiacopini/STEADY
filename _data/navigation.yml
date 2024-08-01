@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research Papers"
+  - title: "Research Output"
     url: /publications/
-  - title: "Conferences, Seminars and Visiting Periods"
-    url: /workshops/
+  - title: "Dissemination"
+    url: /dissemination/

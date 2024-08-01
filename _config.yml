@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MultiNetMetrics"
+title                    : "STEADY"
 title_separator          : "-"
-name                     : &name "MultiNetMetrics"
+name                     : &name "STEADY"
 description              : &description "Homepage"
-url                      : https://rossiniluca.github.io/MultiNetMetrics # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://matteoiacopini.github.io/STEADY # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rossiniluca.github.io/MultiNetMetrics"
+repository               : "matteoiacopini.github.io/STEADY"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "MultiNetMetrics"
-  avatar           : "logo-no-background.png"
+  name             : "STEADY"
+  avatar           : #"logo-no-background.png"
 
 
 # Reading Files
